@@ -1,4 +1,4 @@
 let arr = ["Agrale", "Aston Martin", "Audi", "Bentley", "BMW", "Changan", "Chery", "Chrysler", "Citroën", "Dodge", "Effa", "Ferrari", "Fiat", "Ford", "Geely", "GM/Chevrolet", "Hafei", "Honda", "Hyundai", "Iveco", "Jac Motors", "Jaguar", "Jeep", "Jinbei", "Kia", "Lamborghini", "Land Rover", "Lexus", "Lifan", "Mahindra", "Maserati", "Mercedes-Benz", "MG Motors", "Mini", "Mitsubishi", "Nissan", "Peugeot", "Porsche", "Ram", "Renault", "Smart", "Ssangyong", "Subaru", "Suzuki", "Tesla", "Toyota", "Troller", "Volkswagen", "Volvo"];
-arr.forEach((item,index) => {
+arr.forEach((item, index) => {
   console.log(`${index} ${item}`);
 });  
